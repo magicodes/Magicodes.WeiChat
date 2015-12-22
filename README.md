@@ -1,0 +1,2 @@
+# Magicodes.WeiChat
+Magicodes.WeiChat
